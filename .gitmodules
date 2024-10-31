@@ -1,0 +1,8 @@
+[submodule "poky_kirkstone/meta-openembbeded"]
+	path = poky_kirkstone/meta-openembbeded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = kirkstone
+[submodule "poky_kirkstone/meta-tegra"]
+	path = poky_kirkstone/meta-tegra
+	url = https://github.com/OE4T/meta-tegra.git
+	branch = kirkstone-l4t-r32.7.x
